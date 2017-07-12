@@ -11,8 +11,8 @@ Paul Trethowan, Byron Du Preez, Andrew Loveridge, David MacDonald
 ["Hierarchical Attentive Recurrent Tracking", arXiv preprint, arxiv:1706.09262](https://arxiv.org/abs/1706.09262).
 
 * **Corresponding authors**: 
-    -[Neil Dhir](neild@robots.ox.ac.uk), Oxford Robotics Institue & Machine Learning Research Group, University of Oxford
-    -[Matthijs Vakar](matthijs.vakar@cs.ox.ac.uk), Quantum Group, University of Oxford
+    *[Neil Dhir](neild@robots.ox.ac.uk), Oxford Robotics Institue & Machine Learning Research Group, University of Oxford
+    *[Matthijs Vakar](matthijs.vakar@cs.ox.ac.uk), Quantum Group, University of Oxford
 
 ## Installation
 Install [Tensorflow v1.1](https://www.tensorflow.org/versions/r1.1/install/) and the following dependencies
