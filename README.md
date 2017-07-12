@@ -21,6 +21,7 @@ There are number of dependencies to install, in order to explore the nonparametr
 * Secondly, clone this repo and navigate to `demo/examples.clj`
 * Therein, run the web-based clojure notebook, by typing (in a terminal) `lein gorilla examples.clj` 
 
+Apart from the required clojure libraries, this is a self-contained repo where all the necessary functions are specified in the `examples.clj` notebook.
 
 ## Citation
 
