@@ -13,10 +13,31 @@ Paul Trethowan, Byron Du Preez, Andrew Loveridge, David MacDonald; ["Interpretin
 * [Neil Dhir](neild@robots.ox.ac.uk), Oxford Robotics Institue & Machine Learning Research Group, University of Oxford
 * [Matthijs Vakar](matthijs.vakar@cs.ox.ac.uk), Quantum Group, University of Oxford
 
-## Installation
+## Installation & Demo
 
 There are number of dependencies to install, in order to explore the nonparametric probabilistic programs which we present:
 
 * First you need to install Anglican, do that by following the instructions [here](http://www.robots.ox.ac.uk/~fwood/anglican/)
 * Secondly, clone this repo and navigate to `demo/examples.clj`
 * Therein, run the web-based clojure notebook, by typing (in a terminal) `lein gorilla examples.clj` 
+
+
+## Citation
+
+If you find this repo useful in your research, please consider citing our work:
+
+    @inproceedings{dhir2017interpreting,
+        title={Interpreting Lion Behaviour with Nonparametric Probabilistic Programs} 
+        author={Dhir, Neil and V{\'{a}k{\'{a}}r, Matthijs and Wijers, Matthew and Markham, Andrew and Wood, Frank and Trethowan, Paul and Du Preez, Byron and Loveridge, Andrew and MacDonald, David}},
+        booktitle={UAI},
+        year={2017}
+    }
+
+
+## License
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see  <http://www.gnu.org/licenses/>.
