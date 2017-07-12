@@ -4,7 +4,7 @@ We consider the problem of unsupervised learning of meaningful behavioural segme
 
 ![alt text](https://github.com/wagglefoot/probprog-for-lions/blob/master/activity-plot-1.jpg "Detailed analysis of hunting segment using BNP SSM models.")
 
-[Neil Dhir](http://ori.ox.ac.uk/), [Matthijs Vakar](http://users.ox.ac.uk/~magd3996/), [Matthew Wijers](https://www.wildcru.org/members/mr-matthew-wijers/), 
+Neil Dhir, [Matthijs Vakar](http://users.ox.ac.uk/~magd3996/), [Matthew Wijers](https://www.wildcru.org/members/mr-matthew-wijers/), 
 [Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/), 
 [Frank Wood](http://www.robots.ox.ac.uk/~fwood/), 
 Paul Trethowan, Byron Du Preez, Andrew Loveridge, David MacDonald; ["Interpreting Lion Behaviour with Nonparametric Probabilistic Programs
