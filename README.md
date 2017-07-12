@@ -5,19 +5,18 @@ We consider the problem of unsupervised learning of meaningful behavioural segme
 [Neil Dhir](http://ori.ox.ac.uk/), [Matthijs Vakar](http://users.ox.ac.uk/~magd3996/), [Matthew Wijers](https://www.wildcru.org/members/mr-matthew-wijers/), 
 [Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/), 
 [Frank Wood](http://www.robots.ox.ac.uk/~fwood/), 
-Paul Trethowan, Byron Du Preez, Andrew Loveridge, David MacDonald
+Paul Trethowan, Byron Du Preez, Andrew Loveridge, David MacDonald; ["Interpreting Lion Behaviour with Nonparametric Probabilistic Programs
+"](http://www.auai.org/uai2017/accepted.php).
 
+**Corresponding authors**:
 
-["Hierarchical Attentive Recurrent Tracking", arXiv preprint, arxiv:1706.09262](https://arxiv.org/abs/1706.09262).
-
-* **Corresponding authors**: 
-    *[Neil Dhir](neild@robots.ox.ac.uk), Oxford Robotics Institue & Machine Learning Research Group, University of Oxford
-    *[Matthijs Vakar](matthijs.vakar@cs.ox.ac.uk), Quantum Group, University of Oxford
+* [Neil Dhir](neild@robots.ox.ac.uk), Oxford Robotics Institue & Machine Learning Research Group, University of Oxford
+* [Matthijs Vakar](matthijs.vakar@cs.ox.ac.uk), Quantum Group, University of Oxford
 
 ## Installation
-Install [Tensorflow v1.1](https://www.tensorflow.org/versions/r1.1/install/) and the following dependencies
- (using `pip install -r requirements.txt` (preferred) or `pip install [package]`):
-* matplotlib==1.5.3
-* numpy==1.12.1
-* pandas==0.18.1
-* scipy==0.18.1
+
+There are number of dependencies to install, in order to explore the nonparametric probabilistic programs which we present:
+
+* First you need to install Anglican, do that by following the instructions [here](http://www.robots.ox.ac.uk/~fwood/anglican/)
+* Secondly, clone this repo and navigate to `demo/examples.clj`
+* Therein, run the web-based clojure notebook, by typing (in a terminal) `lein gorilla examples.clj` 
