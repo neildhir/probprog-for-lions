@@ -2,7 +2,7 @@
 
 We consider the problem of unsupervised learning of meaningful behavioural segments of high-dimensional time-series observations, collected from a pride of African lions.  We demonstrate, by way of a probabilistic programming system (PPS), a methodology which allows for quick iteration over models and Bayesian inferences, which enables us to learn meaningful behavioural segments.  We introduce a new Bayesian nonparametric (BNP) state-space model, which extends the hierarchical Dirichlet process (HDP) hidden Markov model (HMM) with an explicit BNP treatment of duration distributions, to deal with different levels of granularity of the latent behavioural space of the lions. The ease with which this is done exemplifies the flexibility that a PPS gives a scientist. Furthermore, we combine this approach with unsupervised feature learning, using variational autoencoders.
 
-![Alt text](,/activity-plot.pdf?raw=true "Detailed analysis of hunting segment using BNP SSM models.")
+![Alt text](,/activity-plot-1.jpg?raw=true "Detailed analysis of hunting segment using BNP SSM models.")
 
 [Neil Dhir](http://ori.ox.ac.uk/), [Matthijs Vakar](http://users.ox.ac.uk/~magd3996/), [Matthew Wijers](https://www.wildcru.org/members/mr-matthew-wijers/), 
 [Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/), 
