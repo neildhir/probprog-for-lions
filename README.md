@@ -28,7 +28,7 @@ If you find this repo useful in your research, please consider citing our work:
 
     @inproceedings{dhir2017interpreting,
         title={Interpreting Lion Behaviour with Nonparametric Probabilistic Programs} 
-        author={Dhir, Neil and V{\'{a}k{\'{a}}r, Matthijs and Wijers, Matthew and Markham, Andrew and Wood, Frank and Trethowan, Paul and Du Preez, Byron and Loveridge, Andrew and MacDonald, David}},
+        author={Dhir, Neil and V{\'{a}}k{\'{a}}r, Matthijs and Wijers, Matthew and Markham, Andrew and Wood, Frank and Trethowan, Paul and Du Preez, Byron and Loveridge, Andrew and MacDonald, David},
         booktitle={UAI},
         year={2017}
     }
