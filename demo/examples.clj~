@@ -1,7 +1,7 @@
 ;; gorilla-repl.fileformat = 1
 
 ;; **
-;;; This notebook contains the Bayesian nonparametric probabilistic programs used in the paper related to this notebook. In order for the models to function smoothly, the cells need to be executed in order. The order itself is given in the numerical headings. For futher details on usage, see the Anglican [homepage](http://www.robots.ox.ac.uk/~fwood/anglican/usage/).
+;;; This notebook contains the Bayesian nonparametric probabilistic programs used in the paper related to this notebook. In order for the models to function smoothly, the cells need to be executed in order. The order itself is given in the numerical headings. 
 ;;; 
 ;;; Lets begin!
 ;;; 
